@@ -106,17 +106,17 @@
 				
 							<receivers>
 								<!-- To Email address -->
-								<!--  
-								<receiver>bluemoonkoustav@gmail.com</receiver> -->
+								<receiver>bluemoonkoustav@gmail.com</receiver>
+								<!--
 								<receiver>dkoustav22@gmail.com</receiver>
-								<!-- <receiver>das_koustav22@yahoo.com</receiver>
+								<receiver>das_koustav22@yahoo.com</receiver>
 								-->
 							</receivers>
 				
 							<fileSets>
 								<fileSet>
 									<!-- Report directory Path -->
-									<directory>D://Selenium//WebDriver//AutomatingMakeMyTrip//uiautomation//resources//reports//</directory>
+									<directory>C://github//uiautomation_poc//uiautomation//resources//reports//</directory>
 									<includes>
 										<!-- Report file name -->
 										<include>report.html</include>
