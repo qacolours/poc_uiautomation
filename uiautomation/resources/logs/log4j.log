@@ -117,3 +117,365 @@
 2022-05-18 20:25:26 INFO  login_page:88 - email provided as user@phptravels.com successfully
 2022-05-18 20:25:26 INFO  login_page:92 - password provided successfully
 2022-05-18 20:25:32 INFO  login_page:96 - Login button clicked successfully
+2022-05-23 10:31:23 INFO  login_page:45 - Test execution started
+2022-05-23 10:31:25 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 10:31:26 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 12:23:04 INFO  login_page:45 - Test execution started
+2022-05-23 12:23:06 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 12:23:07 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 16:05:50 INFO  login_page:45 - Test execution started
+2022-05-23 16:05:55 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 16:05:56 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 16:06:22 INFO  login_page:45 - Test execution started
+2022-05-23 16:06:23 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 16:06:28 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 16:32:52 INFO  login_page:45 - Test execution started
+2022-05-23 16:32:54 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 16:32:55 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 17:24:53 INFO  login_page:45 - Test execution started
+2022-05-23 17:24:55 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 17:24:56 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 18:55:17 INFO  login_page:45 - Test execution started
+2022-05-23 18:55:21 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 18:55:30 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 18:55:30 INFO  login_page:88 - email provided as user@phptravels.com successfully
+2022-05-23 18:55:30 INFO  login_page:92 - password provided successfully
+2022-05-23 19:01:49 INFO  login_page:45 - Test execution started
+2022-05-23 19:01:53 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 19:01:56 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 19:01:56 INFO  login_page:88 - email provided as user@phptravels.com successfully
+2022-05-23 19:01:56 INFO  login_page:92 - password provided successfully
+2022-05-23 19:08:08 INFO  login_page:45 - Test execution started
+2022-05-23 19:08:10 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 19:08:14 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 19:08:14 INFO  login_page:88 - email provided as user@phptravels.com successfully
+2022-05-23 19:08:14 INFO  login_page:92 - password provided successfully
+2022-05-23 19:15:44 INFO  login_page:45 - Test execution started
+2022-05-23 19:15:47 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 19:15:49 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 19:15:50 INFO  login_page:88 - email provided as user@phptravels.com successfully
+2022-05-23 19:15:50 INFO  login_page:92 - password provided successfully
+2022-05-23 19:18:22 INFO  login_page:45 - Test execution started
+2022-05-23 19:18:24 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 19:18:27 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 19:18:27 INFO  login_page:88 - email provided as user@phptravels.com successfully
+2022-05-23 19:18:27 INFO  login_page:92 - password provided successfully
+2022-05-23 19:20:09 INFO  login_page:45 - Test execution started
+2022-05-23 19:20:10 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 19:20:14 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 19:20:14 INFO  login_page:88 - email provided as user@phptravels.com successfully
+2022-05-23 19:20:14 INFO  login_page:92 - password provided successfully
+2022-05-23 19:35:41 INFO  login_page:45 - Test execution started
+2022-05-23 19:35:44 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 19:35:47 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 19:35:48 INFO  login_page:88 - email provided as user@phptravels.com successfully
+2022-05-23 19:35:48 INFO  login_page:92 - password provided successfully
+2022-05-23 19:40:49 INFO  login_page:45 - Test execution started
+2022-05-23 19:40:59 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-23 19:41:05 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-23 19:41:05 INFO  login_page:88 - email provided as user@phptravels.com successfully
+2022-05-23 19:41:06 INFO  login_page:92 - password provided successfully
+2022-05-24 00:42:12 INFO  login_page:45 - Test execution started
+2022-05-24 00:42:14 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-24 00:42:19 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-24 00:42:19 INFO  login_page:88 - email provided as user@phptravels.com successfully
+2022-05-24 00:42:19 INFO  login_page:92 - password provided successfully
+2022-05-24 01:03:20 INFO  login_page:45 - Test execution started
+2022-05-24 01:03:21 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-24 01:03:25 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-24 01:03:25 INFO  login_page:92 - email provided as user@phptravels.com successfully
+2022-05-24 01:03:25 INFO  login_page:96 - password provided successfully
+2022-05-24 01:03:32 INFO  login_page:106 - Login button clicked successfully
+2022-05-24 01:03:33 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-24 01:04:44 INFO  login_page:45 - Test execution started
+2022-05-24 01:04:46 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-24 01:04:49 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-24 01:04:49 INFO  login_page:92 - email provided as user@phptravels.com successfully
+2022-05-24 01:04:49 INFO  login_page:96 - password provided successfully
+2022-05-24 01:04:57 INFO  login_page:106 - Login button clicked successfully
+2022-05-24 01:04:57 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-24 01:09:08 INFO  login_page:45 - Test execution started
+2022-05-24 01:09:09 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-24 01:09:12 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-24 01:09:12 INFO  login_page:92 - email provided as user@phptravels.com successfully
+2022-05-24 01:09:12 INFO  login_page:96 - password provided successfully
+2022-05-24 01:09:20 INFO  login_page:106 - Login button clicked successfully
+2022-05-24 01:09:20 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-24 01:12:19 INFO  login_page:45 - Test execution started
+2022-05-24 01:12:20 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-24 01:12:24 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-24 01:12:28 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-24 01:12:28 INFO  login_page:104 - password provided successfully
+2022-05-24 01:12:30 INFO  login_page:108 - Login button clicked successfully
+2022-05-24 01:12:30 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-24 20:31:33 INFO  login_page:45 - Test execution started
+2022-05-24 20:31:34 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-24 20:31:38 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-24 20:31:42 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-24 20:31:42 INFO  login_page:104 - password provided successfully
+2022-05-24 20:31:44 INFO  login_page:108 - Login button clicked successfully
+2022-05-24 20:31:44 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-24 20:34:26 INFO  login_page:45 - Test execution started
+2022-05-24 20:34:27 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-24 20:34:31 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-24 20:34:35 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-24 20:34:35 INFO  login_page:104 - password provided successfully
+2022-05-24 20:34:38 INFO  login_page:108 - Login button clicked successfully
+2022-05-24 20:34:38 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-24 23:59:05 INFO  login_page:45 - Test execution started
+2022-05-24 23:59:07 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-24 23:59:10 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-24 23:59:14 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-24 23:59:14 INFO  login_page:104 - password provided successfully
+2022-05-24 23:59:16 INFO  login_page:108 - Login button clicked successfully
+2022-05-24 23:59:16 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-25 00:03:23 INFO  login_page:45 - Test execution started
+2022-05-25 00:03:24 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 00:03:27 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-25 00:03:31 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-25 00:03:31 INFO  login_page:104 - password provided successfully
+2022-05-25 00:03:33 INFO  login_page:108 - Login button clicked successfully
+2022-05-25 00:03:33 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-25 00:26:28 INFO  login_page:45 - Test execution started
+2022-05-25 00:26:30 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 00:26:32 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-25 00:26:37 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-25 00:26:37 INFO  login_page:104 - password provided successfully
+2022-05-25 00:26:39 INFO  login_page:108 - Login button clicked successfully
+2022-05-25 00:26:39 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-25 00:27:42 INFO  login_page:45 - Test execution started
+2022-05-25 00:27:43 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 00:27:47 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-25 00:27:51 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-25 00:27:51 INFO  login_page:104 - password provided successfully
+2022-05-25 00:27:52 INFO  login_page:108 - Login button clicked successfully
+2022-05-25 00:27:52 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-25 00:41:40 INFO  login_page:45 - Test execution started
+2022-05-25 00:41:41 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 00:41:47 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-25 00:41:51 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-25 00:41:51 INFO  login_page:104 - password provided successfully
+2022-05-25 00:41:53 INFO  login_page:108 - Login button clicked successfully
+2022-05-25 00:41:53 WARN  WebSocketHandler:142 - onError
+java.net.SocketException: Connection reset
+	at java.base/sun.nio.ch.SocketChannelImpl.throwConnectionReset(SocketChannelImpl.java:394)
+	at java.base/sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:426)
+	at io.netty.buffer.PooledByteBuf.setBytes(PooledByteBuf.java:253)
+	at io.netty.buffer.AbstractByteBuf.writeBytes(AbstractByteBuf.java:1132)
+	at io.netty.channel.socket.nio.NioSocketChannel.doReadBytes(NioSocketChannel.java:350)
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:151)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:719)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:655)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:581)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:493)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:986)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2022-05-25 00:51:04 INFO  login_page:45 - Test execution started
+2022-05-25 00:51:06 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 00:51:08 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-25 01:01:16 INFO  login_page:45 - Test execution started
+2022-05-25 01:01:19 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 01:01:21 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-25 01:01:25 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-25 01:01:26 INFO  login_page:104 - password provided successfully
+2022-05-25 01:01:27 INFO  login_page:108 - Login button clicked successfully
+2022-05-25 01:04:14 INFO  login_page:45 - Test execution started
+2022-05-25 01:04:16 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 01:04:18 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-25 01:04:22 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-25 01:04:22 INFO  login_page:104 - password provided successfully
+2022-05-25 01:04:24 INFO  login_page:108 - Login button clicked successfully
+2022-05-25 01:31:08 INFO  login_page:45 - Test execution started
+2022-05-25 01:31:10 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 01:31:12 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-25 01:31:17 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-25 01:31:17 INFO  login_page:104 - password provided successfully
+2022-05-25 01:31:18 INFO  login_page:108 - Login button clicked successfully
+2022-05-25 01:33:17 INFO  login_page:45 - Test execution started
+2022-05-25 01:33:19 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 01:33:21 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-25 01:33:25 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-25 01:33:25 INFO  login_page:104 - password provided successfully
+2022-05-25 01:33:26 INFO  login_page:108 - Login button clicked successfully
+2022-05-25 01:34:36 INFO  login_page:45 - Test execution started
+2022-05-25 01:34:38 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 01:34:40 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-25 01:34:44 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-25 01:34:44 INFO  login_page:104 - password provided successfully
+2022-05-25 01:34:45 INFO  login_page:108 - Login button clicked successfully
+2022-05-25 01:39:24 INFO  login_page:45 - Test execution started
+2022-05-25 01:39:26 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 01:39:28 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-25 01:39:33 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-25 01:39:33 INFO  login_page:104 - password provided successfully
+2022-05-25 01:39:34 INFO  login_page:108 - Login button clicked successfully
+2022-05-25 01:41:33 INFO  login_page:45 - Test execution started
+2022-05-25 01:41:35 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 01:41:37 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-05-25 01:41:41 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-05-25 01:41:41 INFO  login_page:104 - password provided successfully
+2022-05-25 01:41:46 INFO  login_page:108 - Login button clicked successfully
+2022-05-25 19:10:18 INFO  login_page:45 - Test execution started
+2022-05-25 19:10:20 INFO  login_page:52 - Chrome has been launched successfully
+2022-05-25 19:11:00 INFO  login_page:61 - Browser navigated to https://www.phptravels.net/login page
+2022-08-05 17:00:00 INFO  login_page:45 - Test execution started
+2022-08-05 17:16:04 INFO  login_page:47 - Test execution started
+2022-08-05 17:16:05 INFO  WebDriverManager:1231 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-08-05 17:16:05 INFO  WebDriverManager:1284 - Exporting webdriver.chrome.driver as C:\Users\das_k\.cache\selenium\chromedriver\win32\103.0.5060.134\chromedriver.exe
+2022-08-05 17:16:08 INFO  login_page:57 - Chrome has been launched successfully
+2022-08-05 17:16:12 INFO  login_page:66 - Browser navigated to https://www.phptravels.net/login page
+2022-08-05 17:16:16 INFO  login_page:100 - email provided as user@phptravels.com successfully
+2022-08-05 17:16:16 INFO  login_page:104 - password provided successfully
+2022-08-05 17:16:18 INFO  login_page:108 - Login button clicked successfully

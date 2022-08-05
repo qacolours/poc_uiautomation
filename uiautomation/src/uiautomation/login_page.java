@@ -10,6 +10,7 @@ import org.apache.poi.hssf.usermodel.HSSFWorkbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.apache.poi.ss.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -30,6 +31,9 @@ public class login_page {
 	
 	@FindBy(name="password")
 	WebElement password;
+	
+	@FindBy(id="cookie_stop")
+	WebElement acceptCookie;
 	
 	@FindBy(xpath="//div[@class='contact-form-action']//button[@class='btn btn-default btn-lg btn-block effect ladda-button waves-effect']")
 	WebElement login_button;
@@ -82,7 +86,15 @@ public class login_page {
 	}*/
 	
 	
-	public void loginToApplication(WebDriver driver,Logger log,ExtentTest ex_test) {
+	public void loginToApplication(WebDriver driver,Logger log,ExtentTest ex_test) throws Exception {
+		
+		if (driver.findElements(By.id("cookie_stop")).size() > 0) {
+			acceptCookie.click();
+			
+			Thread.sleep(3000);
+			
+			driver.navigate().refresh();
+		}
 		
 		email.sendKeys("user@phptravels.com");
 		log.info("email provided as user@phptravels.com successfully");

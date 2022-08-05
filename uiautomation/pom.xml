@@ -1,6 +1,4 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>uiautomation</groupId>
 	<artifactId>uiautomation</artifactId>
@@ -27,6 +25,11 @@
 			<version>7.4.0</version>
 		</dependency>
 		<dependency>
+			<groupId>io.github.bonigarcia</groupId>
+			<artifactId>webdrivermanager</artifactId>
+			<version>5.2.3</version>
+		</dependency>
+		<dependency>
 			<groupId>log4j</groupId>
 			<artifactId>log4j</artifactId>
 			<version>1.2.17</version>
@@ -42,9 +45,9 @@
 			<version>2.41.2</version>
 		</dependency>
 		<dependency>
-    		<groupId>ch.fortysix</groupId>
-    		<artifactId>maven-postman-plugin</artifactId>
-    		<version>0.1.6</version>
+			<groupId>ch.fortysix</groupId>
+			<artifactId>maven-postman-plugin</artifactId>
+			<version>0.1.6</version>
 		</dependency>
 	</dependencies>
 	<properties>
@@ -74,36 +77,36 @@
 						<goals>
 							<goal>send-mail</goal>
 						</goals>
-						<inherited>true</inherited>		
+						<inherited>true</inherited>
 						<configuration>
 							<!-- From Email address -->
 							<from>qacolours@gmail.com</from>
-							
+
 							<!--  Email subject -->
 							<subject>Test Automation Report</subject>
-							
+
 							<!-- Fail the build if the mail doesnt reach -->
 							<failonerror>true</failonerror>
-							
+
 							<htmlMessage>
-                    			<![CDATA[
+								<![CDATA[
                     			<p>Hi All, we are having a new deployment. Test Automation execution report is attached.</p>
                     			<br>
                     			<p>Have a nice day.</p>
                     			]]>
-                			</htmlMessage>
-				
+							</htmlMessage>
+
 							<!-- host -->
 							<mailhost>smtp.gmail.com</mailhost>
 							<!-- port of the host -->
 							<mailport>465</mailport>
 							<mailssl>true</mailssl>
 							<mailAltConfig>true</mailAltConfig>
-				
+
 							<!-- Email Authentication(USername and Password) -->
 							<mailuser>qacolours@gmail.com</mailuser>
 							<mailpassword>Start123#</mailpassword>
-				
+
 							<receivers>
 								<!-- To Email address -->
 								<receiver>bluemoonkoustav@gmail.com</receiver>
@@ -112,18 +115,18 @@
 								<receiver>das_koustav22@yahoo.com</receiver>
 								-->
 							</receivers>
-				
+
 							<fileSets>
 								<fileSet>
 									<!-- Report directory Path -->
-									<directory>C://github//uiautomation_poc//uiautomation//resources//reports//</directory>
+									<directory>C:/selenium/projects/poc_uiautomation/poc_uiautomation/uiautomation/resources/reports/</directory>
 									<includes>
 										<!-- Report file name -->
 										<include>report.html</include>
 									</includes>
 									<!-- Use Regular Expressions like **/*.html if you want all the html files to send-->
 								</fileSet>
-							</fileSets>				
+							</fileSets>
 						</configuration>
 					</execution>
 				</executions>

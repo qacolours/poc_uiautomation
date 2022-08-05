@@ -19,6 +19,8 @@ import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+
 public class testcase_initiator {
 	
 	static ExtentReports reports;
@@ -45,8 +47,11 @@ public class testcase_initiator {
 		log.info("Test execution started");
 		ex_test.log(LogStatus.PASS, "Test execution started");
 		
-		oUF.setProperty("browser","chrome");
-		System.setProperty("webdriver.chrome.driver", oUF.getProperty("chromedriverpath"));
+		//oUF.setProperty("browser","chrome");
+		//System.setProperty("webdriver.chrome.driver", oUF.getProperty("chromedriverpath"));
+		
+		WebDriverManager.chromedriver().setup();
+		
 		driver = new ChromeDriver();
 		
 		log.info("Chrome has been launched successfully");
